@@ -1,0 +1,6 @@
+{
+  "name": "VyaparPOS Retail & Inventory",
+  "description": "A modern retail and inventory management point-of-sale app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
